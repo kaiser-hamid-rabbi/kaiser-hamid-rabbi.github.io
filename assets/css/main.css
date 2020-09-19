@@ -3355,7 +3355,7 @@ input, select, textarea {
 		#intro .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #232323;
-			color: #232323 !important;
+			color: #eeeeee !important;
 		}
 
 			#intro input[type="submit"]:hover,
