@@ -1,3 +1,5 @@
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/intro.jpg" width="25%" height="25%" />
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiserhamidrabbi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiser.hamid.rabbi@gmail.com)
 
@@ -21,9 +23,13 @@ human being.
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in typeracer.com, keybr.com and 10fastfingers.com. Can type 100+ words per minute! My all time top speed beats 99.3% of all other people in the world. Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
 
+<img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="100%" height="100%" />
+
 
 #### 🚴 CYCLIST | BIKER: 
 - I love Cycling and Biking! An active member of both the BDCYCLYST group and the BD Riderz Club in Bangladesh. Cycle: UPLAND Spyker-100, Bike: YAMAHA FZS V3.
+
+<img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/bike.jpg" width="100%" height="100%" />
 
 
 #### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
@@ -32,3 +38,6 @@ human being.
 
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
+
+
+<img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/gd-football.png" width="100%" height="100%" />
